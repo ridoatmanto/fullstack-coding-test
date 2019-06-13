@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  done_flag: MyString
+  deadline: 2019-06-12
+
+two:
+  title: MyString
+  done_flag: MyString
+  deadline: 2019-06-12
